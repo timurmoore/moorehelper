@@ -1,1 +1,1 @@
-web: python main.py
+moorehelper: python3 -m main.py
