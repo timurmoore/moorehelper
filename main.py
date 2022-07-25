@@ -40,7 +40,7 @@ async def on_startup(dp: Dispatcher):
 
     bot_logger.exception("BOT WAS STARTED")
     print(Fore.LIGHTYELLOW_EX + "~~~~~ Bot was started ~~~~~")
-    print(Fore.LIGHTBLUE_EX + "~~~~~ TG developer: @djimbox ~~~~~")
+    print(Fore.LIGHTBLUE_EX + "~~~~~ TG owner: @timurmoore ~~~~~")
     print(Fore.RESET)
 
     if len(get_admins()) == 0: print("***** ENTER ADMIN ID IN settings.ini *****")
