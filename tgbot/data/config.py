@@ -36,7 +36,7 @@ def get_admins():
 
 # УДАЛИШЬ ИЛИ ИЗМЕНИШЬ ССЫЛКИ НА ДОНАТ, КАНАЛ И ТЕМУ БОТА - КАСТРИРУЮ БЛЯТЬ
 BOT_DESCRIPTION = f'<b>⚜ Bot Version: <code>{BOT_VERSION}</code>\n' \
-                  f'🔗 Topic Link: <a href="https://lolz.guru/threads/1888814">Click me</a>\n' \
-                  f'♻ Bot created by @djimbox\n' \
-                  f'🍩 Donate to the author: <a href="https://qiwi.com/n/DJIMBO">Click me</a>\n' \
-                  f'🤖 Bot channel [NEWS | UPDATES]: <a href="https://t.me/djimbo_shop">Click me</a></b>'
+                  f'🔗 Topic Link: <a href="https://t.me/timurnemoore">Click me</a>\n' \
+                  f'♻ Bot owner @timurmoore\n' \
+                  f'🍩 Donate to the author: <a href="https://qiwi.com/n/timurmoore">Click me</a>\n' \
+                  f'🤖 Bot channel [NEWS | UPDATES]: <a href="https://t.me/timurnemoore">Click me</a></b>'
